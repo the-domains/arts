@@ -1,0 +1,28 @@
+name: Arts
+favicon: null
+layout_spectrum: 0.43173461710102856
+typography_spectrum: 0.3918710092548281
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#FF6700'
+    - '#EBEBEB'
+    - '#C0C0C0'
+    - '#3A6EA5'
+    - '#004E98'
+  brandStrength: 0.37192979804240167
+  lightness: 0.7843916260171682
+  saturation: 0.4385859239846468
+  rhythmicContrast: 0.8740318119525909
+purpose: []
